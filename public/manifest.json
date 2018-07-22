@@ -1,0 +1,6 @@
+{
+  "short_name": "React Memory",
+  "name": "React Memory",
+  "start_url": "./index.html",
+  "display": "standalone",
+}

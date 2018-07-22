@@ -1,0 +1,25 @@
+.game-board .col-md-1.default{
+  background-color: black;
+  border-radius: 10px;
+}
+
+.game-board .col-md-1.selected{
+  background-color: gray;
+  border-radius: 10px;
+}
+
+.game-board .col-md-1.removed{
+  background-color: white;
+}
+
+.square {
+  padding-bottom: 100%;
+}
+
+.divider-horizontal {
+	margin-bottom: 50px;
+}
+
+.img-col {
+	flex-grow: 0;
+}
